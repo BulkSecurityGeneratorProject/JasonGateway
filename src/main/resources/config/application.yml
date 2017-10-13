@@ -76,7 +76,7 @@ spring:
                 physical-strategy: org.springframework.boot.orm.jpa.hibernate.SpringPhysicalNamingStrategy
                 implicit-strategy: org.springframework.boot.orm.jpa.hibernate.SpringImplicitNamingStrategy
     messages:
-        basename: i18n/messages
+        basename: i18n/messages_zh_cn
     mvc:
         favicon:
             enabled: false
